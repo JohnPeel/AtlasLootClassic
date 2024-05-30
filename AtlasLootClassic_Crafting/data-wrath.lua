@@ -2141,7 +2141,7 @@ data["HerbalismWrath"] = {
 				{ 7,  36901 }, -- Goldclover
 				{ 16,  36908 }, -- Frost Lotus
 				{ 17,  37921 }, -- Deadnettle
-				{ 19,  37704 }, -- Crystallized Life	
+				{ 19,  37704 }, -- Crystallized Life
 			}
 		},
 	}
